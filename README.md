@@ -5,6 +5,10 @@ A Python Notebook for predictng football results in the AFC region.
 
 FootballPredictionsAFC is a comprehensive toolkit for predicting Asian Football Confederation (AFC) match outcomes using advanced statistical modeling techniques combined with web scraping capabilities.
 
+### Website links
+
+- GitHub: https://github.com/quachthanhhung12349/FootballPredictionsAFC
+- Website (Includes per-game prediction and tournament simulation): https://football-predictions-afc--quachthanhhung1.replit.app
 ---
 
 ## Components
@@ -20,6 +24,7 @@ A sophisticated prediction model that forecasts AFC football match outcomes usin
 	- Rating differences between competing teams
 	- Head-to-head (H2H) historical records and matchup dynamics
 	- Team form records spanning multiple match periods
+	- Player and coach data, including the rating approximation of the players/coaches and the overall rating of the squad overall
 - **Comprehensive Pipeline**: Integrates data preprocessing, feature engineering, model training, and prediction generation into a unified workflow
 
 **Output**: Probabilistic predictions for AFC match outcomes over the 2000-2026 period
@@ -39,15 +44,5 @@ A web scraper for collecting comprehensive football match data from AFC regions.
 **Future Enhancements:**
 - Scraping coach data for coaching impact analysis
 - Scraping player-level data for more granular performance metrics
-
----
-
-## Future Plans
-
-1. **Player Data Integration**: Scrape and integrate individual player statistics to enable player-level performance analysis and improve prediction accuracy
-2. **Coach Data Integration**: Incorporate coaching staff data to analyze tactical influences and managerial impact on team performance
-3. **Enhanced Prediction Models**: Leverage player and coach data to build more precise and nuanced match outcome predictions
-
----
 
 
